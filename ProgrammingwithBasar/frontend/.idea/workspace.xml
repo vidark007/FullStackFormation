@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a36e6028-f502-46ff-9f27-d54da5994256" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/main/java/com/hoaxify/shared/GenericReponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/main/java/com/hoaxify/user/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/main/java/com/hoaxify/user/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/main/java/com/hoaxify/user/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/UserSignupPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/main/java/com/hoaxify/HoaxifyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/main/java/com/hoaxify/HoaxifyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/main/java/com/hoaxify/user/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/main/java/com/hoaxify/user/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/main/java/com/hoaxify/user/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/test/java/com/hoaxify/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hoaxify-backend/hoaxify/src/test/java/com/hoaxify/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/UserSignUp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/UserSignUp.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/UserSignUp.spec.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -29,7 +32,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EUrBBzFodrgJYxQdYOXdQ62QeX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,10 +44,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/dev/Spring/Udemy/ProgrammingwithBasar/frontend",
+    "last_opened_file_path": "C:/dev/Spring/Udemy/Eazy Bytes/chapter7/example18MVC/example18 - Backup/pom.xml",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
@@ -55,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662660865754</updated>
-      <workItem from="1662660867302" duration="311000" />
+      <workItem from="1662660867302" duration="3411000" />
+      <workItem from="1662728703460" duration="12322000" />
     </task>
     <servers />
   </component>
